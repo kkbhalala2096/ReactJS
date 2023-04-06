@@ -1,0 +1,76 @@
+{
+  "vagProduct": [
+    {
+      "sno": 70604,
+      "name": "Potato",
+      "category": "Vegetable",
+      "imageUrl": "https://freepngimg.com/thumb/potato/7-potato-png-images-pictures-download-thumb.png",
+      "price": 45,
+      "qty": 25,
+      "id": 1
+    },
+    {
+      "sno": 70605,
+      "name": "Cabbage",
+      "category": "Vegetable",
+      "imageUrl": "https://freepngimg.com/thumb/cabbage/3-2-cabbage-picture.png",
+      "price": 16,
+      "qty": 35,
+      "id": 2
+    },
+    {
+      "sno": 70606,
+      "name": "Avacado",
+      "category": "Fruit",
+      "imageUrl": "https://freepngimg.com/thumb/avocado/7-2-avocado-transparent-thumb.png",
+      "price": 45,
+      "qty": 36,
+      "id": 3
+    },
+    {
+      "sno": 70607,
+      "price": 95,
+      "name": "Apple Red",
+      "category": "Fruit",
+      "imageUrl": "https://freepngimg.com/thumb/apple/7-2-apple-fruit-png-thumb.png",
+      "qty": 15,
+      "id": 4
+    },
+    {
+      "sno": 70708,
+      "name": "Orange",
+      "category": "Fruit",
+      "imageUrl": "https://freepngimg.com/thumb/orange/19-orange-png-image-download-thumb.png",
+      "price": 60,
+      "qty": 28,
+      "id": 5
+    },
+    {
+      "sno": 70709,
+      "price": 50,
+      "name": "Mango",
+      "category": "Fruit",
+      "qty": 40,
+      "imageUrl": "https://freepngimg.com/thumb/mango/9-2-mango-transparent-thumb.png",
+      "id": 6
+    },
+    {
+      "sno": 70710,
+      "price": 30,
+      "name": "Tomato",
+      "category": "Vegetable",
+      "qty": 12,
+      "imageUrl": "https://freepngimg.com/thumb/tomato/1-2-tomato-png-file-thumb.png",
+      "id": 7
+    },
+    {
+      "sno": 70711,
+      "name": "Chocolate",
+      "category": "Dairy",
+      "imageUrl": "https://freepngimg.com/thumb/chocolate/16-chocolate-bar-png-image-thumb.png",
+      "price": "80",
+      "qty": "200",
+      "id": 8
+    }
+  ]
+}
